@@ -3,7 +3,7 @@
 
 **Book Your Bite** is a high-performance reservation platform designed to handle real-time table bookings. It features a robust backend architecture focused on data integrity and concurrency safety.
 
-[Live Demo Link (if available)] | [Video Demo](https://drive.google.com/file/d/1XFHg9_pbtzq0KBnGJ9Dhiq_zlUcxcQwu/view?usp=sharing)
+[Live Demo Link] (https://book-your-bite.vercel.app/) | [Video Demo](https://drive.google.com/file/d/1XFHg9_pbtzq0KBnGJ9Dhiq_zlUcxcQwu/view?usp=sharing)
 
 ---
 
